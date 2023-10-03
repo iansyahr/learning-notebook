@@ -221,6 +221,19 @@ Sumber: Percakapan dengan Bing, 10/3/2023
 (7) Rust Struct (Structures) - Programiz. https://www.programiz.com/rust/struct.
 
 
+### New Mainan
+#### Bacon
+bacon is a background rust code checker.
+https://github.com/Canop/bacon
+It's designed for minimal interaction so that you can just let it run, alongside your editor, and be notified of warnings, errors, or test failures in your Rust code.
+
+SQLx
+https://github.com/launchbadge/sqlx
+
+Poem-openapi https://docs.rs/poem-openapi/latest/poem_openapi/
+
+
+
 ### tO-dO
 
 - match Some None -> move to next day
