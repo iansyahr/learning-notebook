@@ -219,3 +219,9 @@ Sumber: Percakapan dengan Bing, 10/3/2023
 (5) Structures - Rust By Example. https://doc.rust-lang.org/rust-by-example/custom_types/structs.html.
 (6) Using Structs to Structure Related Data - The Rust Programming Language. https://doc.rust-lang.org/book/ch05-00-structs.html.
 (7) Rust Struct (Structures) - Programiz. https://www.programiz.com/rust/struct.
+
+
+### tO-dO
+
+- match Some None -> move to next day
+- Result Options -> move to next day

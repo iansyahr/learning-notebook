@@ -81,5 +81,5 @@ fn main() {
 - ~~apa tu struct~~
 - ~~apa itu impl~~
 - ~~apa itu enum~~
-- match Some None
-- Result Options
+- match Some None -> move to next day
+- Result Options -> move to next day
