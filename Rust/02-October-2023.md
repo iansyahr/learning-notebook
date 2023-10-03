@@ -76,10 +76,10 @@ fn main() {
 
 ### tO-dO
 
-- assert_eq!
-- apa itu type
-- apa tu struct
-- apa itu impl
-- apa itu enum
+- ~~assert_eq!~~
+- ~~apa itu type~~
+- ~~apa tu struct~~
+- ~~apa itu impl~~
+- ~~apa itu enum~~
 - match Some None
 - Result Options
